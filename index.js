@@ -8,8 +8,3 @@ function UpdateClock(){
 }
 UpdateClock();
 setInterval(UpdateClock , 1000);
-// function  StyleSheet(){
-//     Style = document.getElementById("updateclock").style;
-//     Style.
-// }
-
